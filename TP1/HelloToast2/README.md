@@ -34,12 +34,6 @@
 - Android Studio 4.0 ou plus récent.
 - Android SDK avec au moins Android 5.0 (API level 21).
 
-## Installation
-
-1. Clonez le dépôt Git :
-
-   ```bash
-   git clone https://github.com/votre-utilisateur/HelloToastApp.git
 
 ## Auteur
 
