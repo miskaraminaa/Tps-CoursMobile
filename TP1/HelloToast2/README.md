@@ -29,10 +29,6 @@
    - **Décrémenter** : Diminue la valeur du compteur.
    - **Réinitialiser** : Remet le compteur à zéro.
 
-## Prérequis
-
-- Android Studio 4.0 ou plus récent.
-- Android SDK avec au moins Android 5.0 (API level 21).
 
 
 ## Auteur
