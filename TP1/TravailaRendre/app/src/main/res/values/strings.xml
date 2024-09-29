@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TravailaRendre</string>
+    <string name="nom">Nom &amp; Prénom</string>
+    <string name="adresse">Adresse</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="ville">Ville</string>
+    <array name="villes">
+        <item>Agadir</item>
+        <item>Tanger</item>
+        <item>Marrakech</item>
+        <item>Rabat</item>
+    </array>
+    <string name="title_activity_screen2">Screen2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
